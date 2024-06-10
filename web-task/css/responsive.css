@@ -1,0 +1,33 @@
+@media (max-width: 1400px) {
+  .services_wrapper .se-text1 {
+    font-size: 18px !important;
+  }
+  .services_wrapper img {
+    width: 60px !important;
+  }
+}
+@media (max-width: 1200px) {
+  .social_media {
+    margin-top: 0px;
+  }
+}
+@media (max-width: 726px) {
+  .app_wrapper .main-app .app-text1 {
+    width: auto;
+  }
+  .app_wrapper .main-app .app-text2 {
+    width: auto;
+  }
+  .sub_wrapper .sub-text1 {
+    width: auto;
+  }
+  .footer_wrapper .fg-img {
+    height: 130px;
+    width: 180px;
+  }
+}
+@media (max-width: 726px) and (max-width: 425px) {
+  .about_wrapper .ab-text5 {
+    width: auto;
+  }
+}/*# sourceMappingURL=responsive.css.map */
